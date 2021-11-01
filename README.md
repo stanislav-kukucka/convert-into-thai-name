@@ -1,7 +1,7 @@
 # Convert into Thai name (ไทย ชื่อ)
 Convert Name (แปลง ชื่อ) from :gb: English into the :thailand: Thai language
 
-:octocat: [Install Homebrew](https://brew.sh/#install) first, then install python with:
+:octocat: [Install Homebrew](https://brew.sh/#install) on Mac OS first, then install python with:
 
 ```python
 brew install python
